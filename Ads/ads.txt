@@ -1,0 +1,3 @@
+Welcome to CSVGenerator - Generate CSV files from BomSplit and CadPins
+Check out the GitHub repository for updates and more information
+Created by Adalbert Alexandru Ungureanu

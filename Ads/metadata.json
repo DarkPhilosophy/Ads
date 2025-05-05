@@ -1,0 +1,24 @@
+{
+  "Images": [
+    {
+      "Id": 1,
+      "Filename": "ad1.png",
+      "Url": "https://github.com/DarkPhilosophy/CSVGenerator",
+      "Timestamp": 1717000000000
+    }
+  ],
+  "Texts": [
+    {
+      "Id": 1,
+      "Text": "Welcome to CSVGenerator - Generate CSV files from BomSplit and CadPins",
+      "Url": "https://github.com/DarkPhilosophy/CSVGenerator",
+      "Timestamp": 1717000000000
+    },
+    {
+      "Id": 2,
+      "Text": "Check out the GitHub repository for updates and more information",
+      "Url": "https://github.com/DarkPhilosophy/CSVGenerator",
+      "Timestamp": 1717000000000
+    }
+  ]
+}
