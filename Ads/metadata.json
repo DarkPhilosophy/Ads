@@ -2,7 +2,13 @@
   "Images": [
     {
       "Id": 1,
-      "Filename": "ad1.png",
+      "Filename": "promo.png",
+      "Url": "https://github.com/DarkPhilosophy/CSVGenerator",
+      "Timestamp": 1717000000000
+    },
+    {
+      "Id": 2,
+      "Filename": "promo2.png",
       "Url": "https://github.com/DarkPhilosophy/CSVGenerator",
       "Timestamp": 1717000000000
     }
